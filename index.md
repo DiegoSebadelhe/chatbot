@@ -4,11 +4,11 @@
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
- 
+
 			embeddedservice_bootstrap.init(
 				'00D8D000001D10r',
-				'LSM_BOT_TEST',
-				'https://tnsi--stg.sandbox.my.site.com/ESWLSMBOTTEST1725020996256',
+				'chatbotdiego',
+				'https://tnsi--stg.sandbox.my.site.com/ESWchatbotdiego1725551776024',
 				{
 					scrt2URL: 'https://tnsi--stg.sandbox.my.salesforce-scrt.com'
 				}
@@ -18,7 +18,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://tnsi--stg.sandbox.my.site.com/ESWLSMBOTTEST1725020996256/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://tnsi--stg.sandbox.my.site.com/ESWchatbotdiego1725551776024/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
  
   </body>
 </html>
