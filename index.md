@@ -1,6 +1,5 @@
 <html>
-	<body>
-
+<body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -20,6 +19,5 @@
 	};
 </script>
 <script type='text/javascript' src='https://tnsi--q2.sandbox.my.site.com/ESWR4WhatsappBot1738245570402/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
 	</body>
 </html>
